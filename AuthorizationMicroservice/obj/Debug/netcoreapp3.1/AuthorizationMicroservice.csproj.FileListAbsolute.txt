@@ -1,0 +1,199 @@
+C:\Users\piyus\OneDrive\Desktop\PortfolioManagementSystem\AuthorizationMicroservice\bin\Debug\netcoreapp3.1\appsettings.Development.json
+C:\Users\piyus\OneDrive\Desktop\PortfolioManagementSystem\AuthorizationMicroservice\bin\Debug\netcoreapp3.1\appsettings.json
+C:\Users\piyus\OneDrive\Desktop\PortfolioManagementSystem\AuthorizationMicroservice\bin\Debug\netcoreapp3.1\AuthorizationMicroservice.exe
+C:\Users\piyus\OneDrive\Desktop\PortfolioManagementSystem\AuthorizationMicroservice\bin\Debug\netcoreapp3.1\AuthorizationMicroservice.deps.json
+C:\Users\piyus\OneDrive\Desktop\PortfolioManagementSystem\AuthorizationMicroservice\bin\Debug\netcoreapp3.1\AuthorizationMicroservice.runtimeconfig.json
+C:\Users\piyus\OneDrive\Desktop\PortfolioManagementSystem\AuthorizationMicroservice\bin\Debug\netcoreapp3.1\AuthorizationMicroservice.runtimeconfig.dev.json
+C:\Users\piyus\OneDrive\Desktop\PortfolioManagementSystem\AuthorizationMicroservice\bin\Debug\netcoreapp3.1\AuthorizationMicroservice.dll
+C:\Users\piyus\OneDrive\Desktop\PortfolioManagementSystem\AuthorizationMicroservice\bin\Debug\netcoreapp3.1\AuthorizationMicroservice.pdb
+C:\Users\piyus\OneDrive\Desktop\PortfolioManagementSystem\AuthorizationMicroservice\bin\Debug\netcoreapp3.1\Microsoft.AspNetCore.Authentication.JwtBearer.dll
+C:\Users\piyus\OneDrive\Desktop\PortfolioManagementSystem\AuthorizationMicroservice\bin\Debug\netcoreapp3.1\Microsoft.Bcl.AsyncInterfaces.dll
+C:\Users\piyus\OneDrive\Desktop\PortfolioManagementSystem\AuthorizationMicroservice\bin\Debug\netcoreapp3.1\Microsoft.Bcl.HashCode.dll
+C:\Users\piyus\OneDrive\Desktop\PortfolioManagementSystem\AuthorizationMicroservice\bin\Debug\netcoreapp3.1\Microsoft.Data.SqlClient.dll
+C:\Users\piyus\OneDrive\Desktop\PortfolioManagementSystem\AuthorizationMicroservice\bin\Debug\netcoreapp3.1\Microsoft.EntityFrameworkCore.dll
+C:\Users\piyus\OneDrive\Desktop\PortfolioManagementSystem\AuthorizationMicroservice\bin\Debug\netcoreapp3.1\Microsoft.EntityFrameworkCore.Abstractions.dll
+C:\Users\piyus\OneDrive\Desktop\PortfolioManagementSystem\AuthorizationMicroservice\bin\Debug\netcoreapp3.1\Microsoft.EntityFrameworkCore.Design.dll
+C:\Users\piyus\OneDrive\Desktop\PortfolioManagementSystem\AuthorizationMicroservice\bin\Debug\netcoreapp3.1\Microsoft.EntityFrameworkCore.Relational.dll
+C:\Users\piyus\OneDrive\Desktop\PortfolioManagementSystem\AuthorizationMicroservice\bin\Debug\netcoreapp3.1\Microsoft.EntityFrameworkCore.SqlServer.dll
+C:\Users\piyus\OneDrive\Desktop\PortfolioManagementSystem\AuthorizationMicroservice\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Caching.Abstractions.dll
+C:\Users\piyus\OneDrive\Desktop\PortfolioManagementSystem\AuthorizationMicroservice\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Caching.Memory.dll
+C:\Users\piyus\OneDrive\Desktop\PortfolioManagementSystem\AuthorizationMicroservice\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Configuration.dll
+C:\Users\piyus\OneDrive\Desktop\PortfolioManagementSystem\AuthorizationMicroservice\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Configuration.Abstractions.dll
+C:\Users\piyus\OneDrive\Desktop\PortfolioManagementSystem\AuthorizationMicroservice\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Configuration.Binder.dll
+C:\Users\piyus\OneDrive\Desktop\PortfolioManagementSystem\AuthorizationMicroservice\bin\Debug\netcoreapp3.1\Microsoft.Extensions.DependencyInjection.dll
+C:\Users\piyus\OneDrive\Desktop\PortfolioManagementSystem\AuthorizationMicroservice\bin\Debug\netcoreapp3.1\Microsoft.Extensions.DependencyInjection.Abstractions.dll
+C:\Users\piyus\OneDrive\Desktop\PortfolioManagementSystem\AuthorizationMicroservice\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Logging.dll
+C:\Users\piyus\OneDrive\Desktop\PortfolioManagementSystem\AuthorizationMicroservice\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Logging.Abstractions.dll
+C:\Users\piyus\OneDrive\Desktop\PortfolioManagementSystem\AuthorizationMicroservice\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Options.dll
+C:\Users\piyus\OneDrive\Desktop\PortfolioManagementSystem\AuthorizationMicroservice\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Primitives.dll
+C:\Users\piyus\OneDrive\Desktop\PortfolioManagementSystem\AuthorizationMicroservice\bin\Debug\netcoreapp3.1\Microsoft.Identity.Client.dll
+C:\Users\piyus\OneDrive\Desktop\PortfolioManagementSystem\AuthorizationMicroservice\bin\Debug\netcoreapp3.1\Microsoft.IdentityModel.JsonWebTokens.dll
+C:\Users\piyus\OneDrive\Desktop\PortfolioManagementSystem\AuthorizationMicroservice\bin\Debug\netcoreapp3.1\Microsoft.IdentityModel.Logging.dll
+C:\Users\piyus\OneDrive\Desktop\PortfolioManagementSystem\AuthorizationMicroservice\bin\Debug\netcoreapp3.1\Microsoft.IdentityModel.Protocols.dll
+C:\Users\piyus\OneDrive\Desktop\PortfolioManagementSystem\AuthorizationMicroservice\bin\Debug\netcoreapp3.1\Microsoft.IdentityModel.Protocols.OpenIdConnect.dll
+C:\Users\piyus\OneDrive\Desktop\PortfolioManagementSystem\AuthorizationMicroservice\bin\Debug\netcoreapp3.1\Microsoft.IdentityModel.Tokens.dll
+C:\Users\piyus\OneDrive\Desktop\PortfolioManagementSystem\AuthorizationMicroservice\bin\Debug\netcoreapp3.1\Microsoft.OpenApi.dll
+C:\Users\piyus\OneDrive\Desktop\PortfolioManagementSystem\AuthorizationMicroservice\bin\Debug\netcoreapp3.1\Newtonsoft.Json.dll
+C:\Users\piyus\OneDrive\Desktop\PortfolioManagementSystem\AuthorizationMicroservice\bin\Debug\netcoreapp3.1\Swashbuckle.AspNetCore.Swagger.dll
+C:\Users\piyus\OneDrive\Desktop\PortfolioManagementSystem\AuthorizationMicroservice\bin\Debug\netcoreapp3.1\Swashbuckle.AspNetCore.SwaggerGen.dll
+C:\Users\piyus\OneDrive\Desktop\PortfolioManagementSystem\AuthorizationMicroservice\bin\Debug\netcoreapp3.1\Swashbuckle.AspNetCore.SwaggerUI.dll
+C:\Users\piyus\OneDrive\Desktop\PortfolioManagementSystem\AuthorizationMicroservice\bin\Debug\netcoreapp3.1\System.Collections.Immutable.dll
+C:\Users\piyus\OneDrive\Desktop\PortfolioManagementSystem\AuthorizationMicroservice\bin\Debug\netcoreapp3.1\System.Configuration.ConfigurationManager.dll
+C:\Users\piyus\OneDrive\Desktop\PortfolioManagementSystem\AuthorizationMicroservice\bin\Debug\netcoreapp3.1\System.Diagnostics.DiagnosticSource.dll
+C:\Users\piyus\OneDrive\Desktop\PortfolioManagementSystem\AuthorizationMicroservice\bin\Debug\netcoreapp3.1\System.IdentityModel.Tokens.Jwt.dll
+C:\Users\piyus\OneDrive\Desktop\PortfolioManagementSystem\AuthorizationMicroservice\bin\Debug\netcoreapp3.1\System.Runtime.Caching.dll
+C:\Users\piyus\OneDrive\Desktop\PortfolioManagementSystem\AuthorizationMicroservice\bin\Debug\netcoreapp3.1\System.Security.Cryptography.ProtectedData.dll
+C:\Users\piyus\OneDrive\Desktop\PortfolioManagementSystem\AuthorizationMicroservice\bin\Debug\netcoreapp3.1\runtimes\unix\lib\netcoreapp2.1\Microsoft.Data.SqlClient.dll
+C:\Users\piyus\OneDrive\Desktop\PortfolioManagementSystem\AuthorizationMicroservice\bin\Debug\netcoreapp3.1\runtimes\win\lib\netcoreapp2.1\Microsoft.Data.SqlClient.dll
+C:\Users\piyus\OneDrive\Desktop\PortfolioManagementSystem\AuthorizationMicroservice\bin\Debug\netcoreapp3.1\runtimes\win-arm64\native\sni.dll
+C:\Users\piyus\OneDrive\Desktop\PortfolioManagementSystem\AuthorizationMicroservice\bin\Debug\netcoreapp3.1\runtimes\win-x64\native\sni.dll
+C:\Users\piyus\OneDrive\Desktop\PortfolioManagementSystem\AuthorizationMicroservice\bin\Debug\netcoreapp3.1\runtimes\win-x86\native\sni.dll
+C:\Users\piyus\OneDrive\Desktop\PortfolioManagementSystem\AuthorizationMicroservice\bin\Debug\netcoreapp3.1\runtimes\unix\lib\netcoreapp2.0\System.Runtime.Caching.dll
+C:\Users\piyus\OneDrive\Desktop\PortfolioManagementSystem\AuthorizationMicroservice\bin\Debug\netcoreapp3.1\runtimes\win\lib\netcoreapp2.0\System.Runtime.Caching.dll
+C:\Users\piyus\OneDrive\Desktop\PortfolioManagementSystem\AuthorizationMicroservice\bin\Debug\netcoreapp3.1\runtimes\win\lib\netstandard2.0\System.Security.Cryptography.ProtectedData.dll
+C:\Users\piyus\OneDrive\Desktop\PortfolioManagementSystem\AuthorizationMicroservice\obj\Debug\netcoreapp3.1\AuthorizationMicroservice.csproj.AssemblyReference.cache
+C:\Users\piyus\OneDrive\Desktop\PortfolioManagementSystem\AuthorizationMicroservice\obj\Debug\netcoreapp3.1\AuthorizationMicroservice.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\piyus\OneDrive\Desktop\PortfolioManagementSystem\AuthorizationMicroservice\obj\Debug\netcoreapp3.1\AuthorizationMicroservice.AssemblyInfoInputs.cache
+C:\Users\piyus\OneDrive\Desktop\PortfolioManagementSystem\AuthorizationMicroservice\obj\Debug\netcoreapp3.1\AuthorizationMicroservice.AssemblyInfo.cs
+C:\Users\piyus\OneDrive\Desktop\PortfolioManagementSystem\AuthorizationMicroservice\obj\Debug\netcoreapp3.1\AuthorizationMicroservice.csproj.CoreCompileInputs.cache
+C:\Users\piyus\OneDrive\Desktop\PortfolioManagementSystem\AuthorizationMicroservice\obj\Debug\netcoreapp3.1\AuthorizationMicroservice.MvcApplicationPartsAssemblyInfo.cs
+C:\Users\piyus\OneDrive\Desktop\PortfolioManagementSystem\AuthorizationMicroservice\obj\Debug\netcoreapp3.1\AuthorizationMicroservice.MvcApplicationPartsAssemblyInfo.cache
+C:\Users\piyus\OneDrive\Desktop\PortfolioManagementSystem\AuthorizationMicroservice\obj\Debug\netcoreapp3.1\staticwebassets\AuthorizationMicroservice.StaticWebAssets.Manifest.cache
+C:\Users\piyus\OneDrive\Desktop\PortfolioManagementSystem\AuthorizationMicroservice\obj\Debug\netcoreapp3.1\AuthorizationMicroservice.RazorTargetAssemblyInfo.cache
+C:\Users\piyus\OneDrive\Desktop\PortfolioManagementSystem\AuthorizationMicroservice\obj\Debug\netcoreapp3.1\AuthorizationMicroservice.csproj.CopyComplete
+C:\Users\piyus\OneDrive\Desktop\PortfolioManagementSystem\AuthorizationMicroservice\obj\Debug\netcoreapp3.1\AuthorizationMicroservice.dll
+C:\Users\piyus\OneDrive\Desktop\PortfolioManagementSystem\AuthorizationMicroservice\obj\Debug\netcoreapp3.1\AuthorizationMicroservice.pdb
+C:\Users\piyus\OneDrive\Desktop\PortfolioManagementSystem\AuthorizationMicroservice\obj\Debug\netcoreapp3.1\AuthorizationMicroservice.genruntimeconfig.cache
+E:\Cognizant\MFPE\Final\AuthorizationMicroservice\bin\Debug\netcoreapp3.1\appsettings.Development.json
+E:\Cognizant\MFPE\Final\AuthorizationMicroservice\bin\Debug\netcoreapp3.1\appsettings.json
+E:\Cognizant\MFPE\Final\AuthorizationMicroservice\bin\Debug\netcoreapp3.1\Properties\launchSettings.json
+E:\Cognizant\MFPE\Final\AuthorizationMicroservice\bin\Debug\netcoreapp3.1\AuthorizationMicroservice.exe
+E:\Cognizant\MFPE\Final\AuthorizationMicroservice\bin\Debug\netcoreapp3.1\AuthorizationMicroservice.deps.json
+E:\Cognizant\MFPE\Final\AuthorizationMicroservice\bin\Debug\netcoreapp3.1\AuthorizationMicroservice.runtimeconfig.json
+E:\Cognizant\MFPE\Final\AuthorizationMicroservice\bin\Debug\netcoreapp3.1\AuthorizationMicroservice.runtimeconfig.dev.json
+E:\Cognizant\MFPE\Final\AuthorizationMicroservice\bin\Debug\netcoreapp3.1\AuthorizationMicroservice.dll
+E:\Cognizant\MFPE\Final\AuthorizationMicroservice\bin\Debug\netcoreapp3.1\AuthorizationMicroservice.pdb
+E:\Cognizant\MFPE\Final\AuthorizationMicroservice\bin\Debug\netcoreapp3.1\Microsoft.AspNetCore.Authentication.JwtBearer.dll
+E:\Cognizant\MFPE\Final\AuthorizationMicroservice\bin\Debug\netcoreapp3.1\Microsoft.Bcl.AsyncInterfaces.dll
+E:\Cognizant\MFPE\Final\AuthorizationMicroservice\bin\Debug\netcoreapp3.1\Microsoft.Bcl.HashCode.dll
+E:\Cognizant\MFPE\Final\AuthorizationMicroservice\bin\Debug\netcoreapp3.1\Microsoft.Data.SqlClient.dll
+E:\Cognizant\MFPE\Final\AuthorizationMicroservice\bin\Debug\netcoreapp3.1\Microsoft.EntityFrameworkCore.dll
+E:\Cognizant\MFPE\Final\AuthorizationMicroservice\bin\Debug\netcoreapp3.1\Microsoft.EntityFrameworkCore.Abstractions.dll
+E:\Cognizant\MFPE\Final\AuthorizationMicroservice\bin\Debug\netcoreapp3.1\Microsoft.EntityFrameworkCore.Design.dll
+E:\Cognizant\MFPE\Final\AuthorizationMicroservice\bin\Debug\netcoreapp3.1\Microsoft.EntityFrameworkCore.Relational.dll
+E:\Cognizant\MFPE\Final\AuthorizationMicroservice\bin\Debug\netcoreapp3.1\Microsoft.EntityFrameworkCore.SqlServer.dll
+E:\Cognizant\MFPE\Final\AuthorizationMicroservice\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Caching.Abstractions.dll
+E:\Cognizant\MFPE\Final\AuthorizationMicroservice\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Caching.Memory.dll
+E:\Cognizant\MFPE\Final\AuthorizationMicroservice\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Configuration.dll
+E:\Cognizant\MFPE\Final\AuthorizationMicroservice\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Configuration.Abstractions.dll
+E:\Cognizant\MFPE\Final\AuthorizationMicroservice\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Configuration.Binder.dll
+E:\Cognizant\MFPE\Final\AuthorizationMicroservice\bin\Debug\netcoreapp3.1\Microsoft.Extensions.DependencyInjection.dll
+E:\Cognizant\MFPE\Final\AuthorizationMicroservice\bin\Debug\netcoreapp3.1\Microsoft.Extensions.DependencyInjection.Abstractions.dll
+E:\Cognizant\MFPE\Final\AuthorizationMicroservice\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Logging.dll
+E:\Cognizant\MFPE\Final\AuthorizationMicroservice\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Logging.Abstractions.dll
+E:\Cognizant\MFPE\Final\AuthorizationMicroservice\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Options.dll
+E:\Cognizant\MFPE\Final\AuthorizationMicroservice\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Primitives.dll
+E:\Cognizant\MFPE\Final\AuthorizationMicroservice\bin\Debug\netcoreapp3.1\Microsoft.Identity.Client.dll
+E:\Cognizant\MFPE\Final\AuthorizationMicroservice\bin\Debug\netcoreapp3.1\Microsoft.IdentityModel.JsonWebTokens.dll
+E:\Cognizant\MFPE\Final\AuthorizationMicroservice\bin\Debug\netcoreapp3.1\Microsoft.IdentityModel.Logging.dll
+E:\Cognizant\MFPE\Final\AuthorizationMicroservice\bin\Debug\netcoreapp3.1\Microsoft.IdentityModel.Protocols.dll
+E:\Cognizant\MFPE\Final\AuthorizationMicroservice\bin\Debug\netcoreapp3.1\Microsoft.IdentityModel.Protocols.OpenIdConnect.dll
+E:\Cognizant\MFPE\Final\AuthorizationMicroservice\bin\Debug\netcoreapp3.1\Microsoft.IdentityModel.Tokens.dll
+E:\Cognizant\MFPE\Final\AuthorizationMicroservice\bin\Debug\netcoreapp3.1\Microsoft.OpenApi.dll
+E:\Cognizant\MFPE\Final\AuthorizationMicroservice\bin\Debug\netcoreapp3.1\Newtonsoft.Json.dll
+E:\Cognizant\MFPE\Final\AuthorizationMicroservice\bin\Debug\netcoreapp3.1\Swashbuckle.AspNetCore.Swagger.dll
+E:\Cognizant\MFPE\Final\AuthorizationMicroservice\bin\Debug\netcoreapp3.1\Swashbuckle.AspNetCore.SwaggerGen.dll
+E:\Cognizant\MFPE\Final\AuthorizationMicroservice\bin\Debug\netcoreapp3.1\Swashbuckle.AspNetCore.SwaggerUI.dll
+E:\Cognizant\MFPE\Final\AuthorizationMicroservice\bin\Debug\netcoreapp3.1\System.Collections.Immutable.dll
+E:\Cognizant\MFPE\Final\AuthorizationMicroservice\bin\Debug\netcoreapp3.1\System.Configuration.ConfigurationManager.dll
+E:\Cognizant\MFPE\Final\AuthorizationMicroservice\bin\Debug\netcoreapp3.1\System.Diagnostics.DiagnosticSource.dll
+E:\Cognizant\MFPE\Final\AuthorizationMicroservice\bin\Debug\netcoreapp3.1\System.IdentityModel.Tokens.Jwt.dll
+E:\Cognizant\MFPE\Final\AuthorizationMicroservice\bin\Debug\netcoreapp3.1\System.Runtime.Caching.dll
+E:\Cognizant\MFPE\Final\AuthorizationMicroservice\bin\Debug\netcoreapp3.1\System.Security.Cryptography.ProtectedData.dll
+E:\Cognizant\MFPE\Final\AuthorizationMicroservice\bin\Debug\netcoreapp3.1\runtimes\unix\lib\netcoreapp2.1\Microsoft.Data.SqlClient.dll
+E:\Cognizant\MFPE\Final\AuthorizationMicroservice\bin\Debug\netcoreapp3.1\runtimes\win\lib\netcoreapp2.1\Microsoft.Data.SqlClient.dll
+E:\Cognizant\MFPE\Final\AuthorizationMicroservice\bin\Debug\netcoreapp3.1\runtimes\win-arm64\native\sni.dll
+E:\Cognizant\MFPE\Final\AuthorizationMicroservice\bin\Debug\netcoreapp3.1\runtimes\win-x64\native\sni.dll
+E:\Cognizant\MFPE\Final\AuthorizationMicroservice\bin\Debug\netcoreapp3.1\runtimes\win-x86\native\sni.dll
+E:\Cognizant\MFPE\Final\AuthorizationMicroservice\bin\Debug\netcoreapp3.1\runtimes\unix\lib\netcoreapp2.0\System.Runtime.Caching.dll
+E:\Cognizant\MFPE\Final\AuthorizationMicroservice\bin\Debug\netcoreapp3.1\runtimes\win\lib\netcoreapp2.0\System.Runtime.Caching.dll
+E:\Cognizant\MFPE\Final\AuthorizationMicroservice\bin\Debug\netcoreapp3.1\runtimes\win\lib\netstandard2.0\System.Security.Cryptography.ProtectedData.dll
+E:\Cognizant\MFPE\Final\AuthorizationMicroservice\obj\Debug\netcoreapp3.1\AuthorizationMicroservice.csprojAssemblyReference.cache
+E:\Cognizant\MFPE\Final\AuthorizationMicroservice\obj\Debug\netcoreapp3.1\AuthorizationMicroservice.AssemblyInfoInputs.cache
+E:\Cognizant\MFPE\Final\AuthorizationMicroservice\obj\Debug\netcoreapp3.1\AuthorizationMicroservice.AssemblyInfo.cs
+E:\Cognizant\MFPE\Final\AuthorizationMicroservice\obj\Debug\netcoreapp3.1\AuthorizationMicroservice.csproj.CoreCompileInputs.cache
+E:\Cognizant\MFPE\Final\AuthorizationMicroservice\obj\Debug\netcoreapp3.1\AuthorizationMicroservice.MvcApplicationPartsAssemblyInfo.cs
+E:\Cognizant\MFPE\Final\AuthorizationMicroservice\obj\Debug\netcoreapp3.1\AuthorizationMicroservice.MvcApplicationPartsAssemblyInfo.cache
+E:\Cognizant\MFPE\Final\AuthorizationMicroservice\obj\Debug\netcoreapp3.1\AuthorizationMicroservice.RazorTargetAssemblyInfo.cache
+E:\Cognizant\MFPE\Final\AuthorizationMicroservice\obj\Debug\netcoreapp3.1\AuthorizationMicroservice.csproj.CopyComplete
+E:\Cognizant\MFPE\Final\AuthorizationMicroservice\obj\Debug\netcoreapp3.1\staticwebassets\AuthorizationMicroservice.StaticWebAssets.Manifest.cache
+E:\Cognizant\MFPE\Final\AuthorizationMicroservice\obj\Debug\netcoreapp3.1\staticwebassets\AuthorizationMicroservice.StaticWebAssets.xml
+E:\Cognizant\MFPE\Final\AuthorizationMicroservice\obj\Debug\netcoreapp3.1\AuthorizationMicroservice.dll
+E:\Cognizant\MFPE\Final\AuthorizationMicroservice\obj\Debug\netcoreapp3.1\AuthorizationMicroservice.pdb
+E:\Cognizant\MFPE\Final\AuthorizationMicroservice\obj\Debug\netcoreapp3.1\AuthorizationMicroservice.genruntimeconfig.cache
+E:\Cognizant\CTS Extra project\New folder\AuditManagementSystem-master\AuthorizationMicroservice\bin\Debug\netcoreapp3.1\appsettings.Development.json
+E:\Cognizant\CTS Extra project\New folder\AuditManagementSystem-master\AuthorizationMicroservice\bin\Debug\netcoreapp3.1\appsettings.json
+E:\Cognizant\CTS Extra project\New folder\AuditManagementSystem-master\AuthorizationMicroservice\bin\Debug\netcoreapp3.1\AuthorizationMicroservice.exe
+E:\Cognizant\CTS Extra project\New folder\AuditManagementSystem-master\AuthorizationMicroservice\bin\Debug\netcoreapp3.1\AuthorizationMicroservice.deps.json
+E:\Cognizant\CTS Extra project\New folder\AuditManagementSystem-master\AuthorizationMicroservice\bin\Debug\netcoreapp3.1\AuthorizationMicroservice.runtimeconfig.json
+E:\Cognizant\CTS Extra project\New folder\AuditManagementSystem-master\AuthorizationMicroservice\bin\Debug\netcoreapp3.1\AuthorizationMicroservice.runtimeconfig.dev.json
+E:\Cognizant\CTS Extra project\New folder\AuditManagementSystem-master\AuthorizationMicroservice\bin\Debug\netcoreapp3.1\AuthorizationMicroservice.dll
+E:\Cognizant\CTS Extra project\New folder\AuditManagementSystem-master\AuthorizationMicroservice\bin\Debug\netcoreapp3.1\AuthorizationMicroservice.pdb
+E:\Cognizant\CTS Extra project\New folder\AuditManagementSystem-master\AuthorizationMicroservice\bin\Debug\netcoreapp3.1\Microsoft.AspNetCore.Authentication.JwtBearer.dll
+E:\Cognizant\CTS Extra project\New folder\AuditManagementSystem-master\AuthorizationMicroservice\bin\Debug\netcoreapp3.1\Microsoft.Bcl.AsyncInterfaces.dll
+E:\Cognizant\CTS Extra project\New folder\AuditManagementSystem-master\AuthorizationMicroservice\bin\Debug\netcoreapp3.1\Microsoft.Bcl.HashCode.dll
+E:\Cognizant\CTS Extra project\New folder\AuditManagementSystem-master\AuthorizationMicroservice\bin\Debug\netcoreapp3.1\Microsoft.Data.SqlClient.dll
+E:\Cognizant\CTS Extra project\New folder\AuditManagementSystem-master\AuthorizationMicroservice\bin\Debug\netcoreapp3.1\Microsoft.EntityFrameworkCore.dll
+E:\Cognizant\CTS Extra project\New folder\AuditManagementSystem-master\AuthorizationMicroservice\bin\Debug\netcoreapp3.1\Microsoft.EntityFrameworkCore.Abstractions.dll
+E:\Cognizant\CTS Extra project\New folder\AuditManagementSystem-master\AuthorizationMicroservice\bin\Debug\netcoreapp3.1\Microsoft.EntityFrameworkCore.Design.dll
+E:\Cognizant\CTS Extra project\New folder\AuditManagementSystem-master\AuthorizationMicroservice\bin\Debug\netcoreapp3.1\Microsoft.EntityFrameworkCore.Relational.dll
+E:\Cognizant\CTS Extra project\New folder\AuditManagementSystem-master\AuthorizationMicroservice\bin\Debug\netcoreapp3.1\Microsoft.EntityFrameworkCore.SqlServer.dll
+E:\Cognizant\CTS Extra project\New folder\AuditManagementSystem-master\AuthorizationMicroservice\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Caching.Abstractions.dll
+E:\Cognizant\CTS Extra project\New folder\AuditManagementSystem-master\AuthorizationMicroservice\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Caching.Memory.dll
+E:\Cognizant\CTS Extra project\New folder\AuditManagementSystem-master\AuthorizationMicroservice\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Configuration.dll
+E:\Cognizant\CTS Extra project\New folder\AuditManagementSystem-master\AuthorizationMicroservice\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Configuration.Abstractions.dll
+E:\Cognizant\CTS Extra project\New folder\AuditManagementSystem-master\AuthorizationMicroservice\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Configuration.Binder.dll
+E:\Cognizant\CTS Extra project\New folder\AuditManagementSystem-master\AuthorizationMicroservice\bin\Debug\netcoreapp3.1\Microsoft.Extensions.DependencyInjection.dll
+E:\Cognizant\CTS Extra project\New folder\AuditManagementSystem-master\AuthorizationMicroservice\bin\Debug\netcoreapp3.1\Microsoft.Extensions.DependencyInjection.Abstractions.dll
+E:\Cognizant\CTS Extra project\New folder\AuditManagementSystem-master\AuthorizationMicroservice\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Logging.dll
+E:\Cognizant\CTS Extra project\New folder\AuditManagementSystem-master\AuthorizationMicroservice\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Logging.Abstractions.dll
+E:\Cognizant\CTS Extra project\New folder\AuditManagementSystem-master\AuthorizationMicroservice\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Options.dll
+E:\Cognizant\CTS Extra project\New folder\AuditManagementSystem-master\AuthorizationMicroservice\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Primitives.dll
+E:\Cognizant\CTS Extra project\New folder\AuditManagementSystem-master\AuthorizationMicroservice\bin\Debug\netcoreapp3.1\Microsoft.Identity.Client.dll
+E:\Cognizant\CTS Extra project\New folder\AuditManagementSystem-master\AuthorizationMicroservice\bin\Debug\netcoreapp3.1\Microsoft.IdentityModel.JsonWebTokens.dll
+E:\Cognizant\CTS Extra project\New folder\AuditManagementSystem-master\AuthorizationMicroservice\bin\Debug\netcoreapp3.1\Microsoft.IdentityModel.Logging.dll
+E:\Cognizant\CTS Extra project\New folder\AuditManagementSystem-master\AuthorizationMicroservice\bin\Debug\netcoreapp3.1\Microsoft.IdentityModel.Protocols.dll
+E:\Cognizant\CTS Extra project\New folder\AuditManagementSystem-master\AuthorizationMicroservice\bin\Debug\netcoreapp3.1\Microsoft.IdentityModel.Protocols.OpenIdConnect.dll
+E:\Cognizant\CTS Extra project\New folder\AuditManagementSystem-master\AuthorizationMicroservice\bin\Debug\netcoreapp3.1\Microsoft.IdentityModel.Tokens.dll
+E:\Cognizant\CTS Extra project\New folder\AuditManagementSystem-master\AuthorizationMicroservice\bin\Debug\netcoreapp3.1\Microsoft.OpenApi.dll
+E:\Cognizant\CTS Extra project\New folder\AuditManagementSystem-master\AuthorizationMicroservice\bin\Debug\netcoreapp3.1\Newtonsoft.Json.dll
+E:\Cognizant\CTS Extra project\New folder\AuditManagementSystem-master\AuthorizationMicroservice\bin\Debug\netcoreapp3.1\Swashbuckle.AspNetCore.Swagger.dll
+E:\Cognizant\CTS Extra project\New folder\AuditManagementSystem-master\AuthorizationMicroservice\bin\Debug\netcoreapp3.1\Swashbuckle.AspNetCore.SwaggerGen.dll
+E:\Cognizant\CTS Extra project\New folder\AuditManagementSystem-master\AuthorizationMicroservice\bin\Debug\netcoreapp3.1\Swashbuckle.AspNetCore.SwaggerUI.dll
+E:\Cognizant\CTS Extra project\New folder\AuditManagementSystem-master\AuthorizationMicroservice\bin\Debug\netcoreapp3.1\System.Collections.Immutable.dll
+E:\Cognizant\CTS Extra project\New folder\AuditManagementSystem-master\AuthorizationMicroservice\bin\Debug\netcoreapp3.1\System.Configuration.ConfigurationManager.dll
+E:\Cognizant\CTS Extra project\New folder\AuditManagementSystem-master\AuthorizationMicroservice\bin\Debug\netcoreapp3.1\System.Diagnostics.DiagnosticSource.dll
+E:\Cognizant\CTS Extra project\New folder\AuditManagementSystem-master\AuthorizationMicroservice\bin\Debug\netcoreapp3.1\System.IdentityModel.Tokens.Jwt.dll
+E:\Cognizant\CTS Extra project\New folder\AuditManagementSystem-master\AuthorizationMicroservice\bin\Debug\netcoreapp3.1\System.Runtime.Caching.dll
+E:\Cognizant\CTS Extra project\New folder\AuditManagementSystem-master\AuthorizationMicroservice\bin\Debug\netcoreapp3.1\System.Security.Cryptography.ProtectedData.dll
+E:\Cognizant\CTS Extra project\New folder\AuditManagementSystem-master\AuthorizationMicroservice\bin\Debug\netcoreapp3.1\runtimes\unix\lib\netcoreapp2.1\Microsoft.Data.SqlClient.dll
+E:\Cognizant\CTS Extra project\New folder\AuditManagementSystem-master\AuthorizationMicroservice\bin\Debug\netcoreapp3.1\runtimes\win\lib\netcoreapp2.1\Microsoft.Data.SqlClient.dll
+E:\Cognizant\CTS Extra project\New folder\AuditManagementSystem-master\AuthorizationMicroservice\bin\Debug\netcoreapp3.1\runtimes\win-arm64\native\sni.dll
+E:\Cognizant\CTS Extra project\New folder\AuditManagementSystem-master\AuthorizationMicroservice\bin\Debug\netcoreapp3.1\runtimes\win-x64\native\sni.dll
+E:\Cognizant\CTS Extra project\New folder\AuditManagementSystem-master\AuthorizationMicroservice\bin\Debug\netcoreapp3.1\runtimes\win-x86\native\sni.dll
+E:\Cognizant\CTS Extra project\New folder\AuditManagementSystem-master\AuthorizationMicroservice\bin\Debug\netcoreapp3.1\runtimes\unix\lib\netcoreapp2.0\System.Runtime.Caching.dll
+E:\Cognizant\CTS Extra project\New folder\AuditManagementSystem-master\AuthorizationMicroservice\bin\Debug\netcoreapp3.1\runtimes\win\lib\netcoreapp2.0\System.Runtime.Caching.dll
+E:\Cognizant\CTS Extra project\New folder\AuditManagementSystem-master\AuthorizationMicroservice\bin\Debug\netcoreapp3.1\runtimes\win\lib\netstandard2.0\System.Security.Cryptography.ProtectedData.dll
+E:\Cognizant\CTS Extra project\New folder\AuditManagementSystem-master\AuthorizationMicroservice\obj\Debug\netcoreapp3.1\AuthorizationMicroservice.AssemblyInfoInputs.cache
+E:\Cognizant\CTS Extra project\New folder\AuditManagementSystem-master\AuthorizationMicroservice\obj\Debug\netcoreapp3.1\AuthorizationMicroservice.AssemblyInfo.cs
+E:\Cognizant\CTS Extra project\New folder\AuditManagementSystem-master\AuthorizationMicroservice\obj\Debug\netcoreapp3.1\AuthorizationMicroservice.csproj.CoreCompileInputs.cache
+E:\Cognizant\CTS Extra project\New folder\AuditManagementSystem-master\AuthorizationMicroservice\obj\Debug\netcoreapp3.1\AuthorizationMicroservice.MvcApplicationPartsAssemblyInfo.cs
+E:\Cognizant\CTS Extra project\New folder\AuditManagementSystem-master\AuthorizationMicroservice\obj\Debug\netcoreapp3.1\AuthorizationMicroservice.MvcApplicationPartsAssemblyInfo.cache
+E:\Cognizant\CTS Extra project\New folder\AuditManagementSystem-master\AuthorizationMicroservice\obj\Debug\netcoreapp3.1\AuthorizationMicroservice.RazorTargetAssemblyInfo.cache
+E:\Cognizant\CTS Extra project\New folder\AuditManagementSystem-master\AuthorizationMicroservice\obj\Debug\netcoreapp3.1\AuthorizationMicroservice.csproj.CopyComplete
+E:\Cognizant\CTS Extra project\New folder\AuditManagementSystem-master\AuthorizationMicroservice\obj\Debug\netcoreapp3.1\staticwebassets\AuthorizationMicroservice.StaticWebAssets.Manifest.cache
+E:\Cognizant\CTS Extra project\New folder\AuditManagementSystem-master\AuthorizationMicroservice\obj\Debug\netcoreapp3.1\AuthorizationMicroservice.dll
+E:\Cognizant\CTS Extra project\New folder\AuditManagementSystem-master\AuthorizationMicroservice\obj\Debug\netcoreapp3.1\AuthorizationMicroservice.pdb
+E:\Cognizant\CTS Extra project\New folder\AuditManagementSystem-master\AuthorizationMicroservice\obj\Debug\netcoreapp3.1\AuthorizationMicroservice.genruntimeconfig.cache
+E:\Cognizant\CTS Extra project\New folder\AuditManagementSystem-master\AuthorizationMicroservice\obj\Debug\netcoreapp3.1\AuthorizationMicroservice.csproj.AssemblyReference.cache
+E:\Cognizant\CTS Extra project\New folder\AuditManagementSystem-master\AuthorizationMicroservice\obj\Debug\netcoreapp3.1\AuthorizationMicroservice.GeneratedMSBuildEditorConfig.editorconfig
