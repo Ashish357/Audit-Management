@@ -1,0 +1,639 @@
+INFO  10:00:20 Application started. Press Ctrl+C to shut down.
+INFO  10:00:20 Application started. Press Ctrl+C to shut down.
+INFO  10:00:20 Hosting environment: Development
+INFO  10:00:20 Hosting environment: Development
+INFO  10:00:20 Content root path: D:\MyAspDotNetProjects\AuditBenchmarkModule
+INFO  10:00:20 Content root path: D:\MyAspDotNetProjects\AuditBenchmarkModule
+INFO  10:00:36  Http GET request AuditBenchmarkController
+INFO  10:00:36  Http GET request BenchmarkProvider
+INFO  10:00:36  Http GET request BenchmarkRepo
+INFO  10:00:48  Http GET request AuditBenchmarkController
+INFO  10:00:48  Http GET request BenchmarkProvider
+INFO  10:00:48  Http GET request BenchmarkRepo
+INFO  10:00:59  Http GET request AuditBenchmarkController
+INFO  10:00:59  Http GET request BenchmarkProvider
+INFO  10:00:59  Http GET request BenchmarkRepo
+INFO  10:02:05 Application started. Press Ctrl+C to shut down.
+INFO  10:02:05 Application started. Press Ctrl+C to shut down.
+INFO  10:02:05 Hosting environment: Development
+INFO  10:02:05 Hosting environment: Development
+INFO  10:02:05 Content root path: D:\MyAspDotNetProjects\AuditBenchmarkModule
+INFO  10:02:05 Content root path: D:\MyAspDotNetProjects\AuditBenchmarkModule
+INFO  10:09:39 Application started. Press Ctrl+C to shut down.
+INFO  10:09:39 Application started. Press Ctrl+C to shut down.
+INFO  10:09:39 Hosting environment: Development
+INFO  10:09:39 Hosting environment: Development
+INFO  10:09:39 Content root path: D:\MyAspDotNetProjects\AuditBenchmarkModule
+INFO  10:09:39 Content root path: D:\MyAspDotNetProjects\AuditBenchmarkModule
+INFO  10:09:39  Http GET request AuditBenchmarkController
+INFO  10:09:39  Http GET request BenchmarkProvider
+INFO  10:09:39  Http GET request BenchmarkRepo
+INFO  10:20:13 Application started. Press Ctrl+C to shut down.
+INFO  10:20:13 Application started. Press Ctrl+C to shut down.
+INFO  10:20:13 Hosting environment: Development
+INFO  10:20:13 Hosting environment: Development
+INFO  10:20:13 Content root path: D:\MyAspDotNetProjects\AuditBenchmarkModule
+INFO  10:20:13 Content root path: D:\MyAspDotNetProjects\AuditBenchmarkModule
+INFO  10:20:14  Http GET request AuditBenchmarkController
+INFO  10:20:14  Http GET request BenchmarkProvider
+INFO  10:20:14  Http GET request BenchmarkRepo
+INFO  10:20:35  Http GET request AuditBenchmarkController
+INFO  10:20:35  Http GET request BenchmarkProvider
+INFO  10:20:35  Http GET request BenchmarkRepo
+INFO  10:20:36  Http GET request AuditBenchmarkController
+INFO  10:20:36  Http GET request BenchmarkProvider
+INFO  10:20:36  Http GET request BenchmarkRepo
+INFO  10:20:38  Http GET request AuditBenchmarkController
+INFO  10:20:38  Http GET request BenchmarkProvider
+INFO  10:20:38  Http GET request BenchmarkRepo
+INFO  10:21:23  Http GET request AuditBenchmarkController
+INFO  10:21:23  Http GET request BenchmarkProvider
+INFO  10:21:23  Http GET request BenchmarkRepo
+INFO  10:21:32  Http GET request AuditBenchmarkController
+INFO  10:21:32  Http GET request BenchmarkProvider
+INFO  10:21:32  Http GET request BenchmarkRepo
+INFO  10:23:37 Application started. Press Ctrl+C to shut down.
+INFO  10:23:37 Application started. Press Ctrl+C to shut down.
+INFO  10:23:37 Hosting environment: Development
+INFO  10:23:37 Hosting environment: Development
+INFO  10:23:37 Content root path: C:\Users\suvin\Downloads\Mfpe\AuditBenchmarkModule
+INFO  10:23:37 Content root path: C:\Users\suvin\Downloads\Mfpe\AuditBenchmarkModule
+INFO  10:23:37  Http GET request AuditBenchmarkController
+INFO  10:23:37  Http GET request BenchmarkProvider
+INFO  10:23:37  Http GET request BenchmarkRepo
+INFO  10:26:37  Http GET request AuditBenchmarkController
+INFO  10:26:37  Http GET request BenchmarkProvider
+INFO  10:26:37  Http GET request BenchmarkRepo
+INFO  12:22:04 Application started. Press Ctrl+C to shut down.
+INFO  12:22:04 Application started. Press Ctrl+C to shut down.
+INFO  12:22:04 Hosting environment: Development
+INFO  12:22:04 Hosting environment: Development
+INFO  12:22:04 Content root path: C:\Users\suvin\Downloads\Mfpe\AuditBenchmarkModule
+INFO  12:22:04 Content root path: C:\Users\suvin\Downloads\Mfpe\AuditBenchmarkModule
+INFO  12:22:04  Http GET request AuditBenchmarkController
+INFO  12:22:04  Http GET request BenchmarkProvider
+INFO  12:22:04  Http GET request BenchmarkRepo
+INFO  12:22:54  Http GET request AuditBenchmarkController
+INFO  12:22:54  Http GET request BenchmarkProvider
+INFO  12:22:54  Http GET request BenchmarkRepo
+INFO  12:36:27  Http GET request AuditBenchmarkController
+INFO  12:36:27  Http GET request BenchmarkProvider
+INFO  12:36:27  Http GET request BenchmarkRepo
+INFO  12:39:05  Http GET request AuditBenchmarkController
+INFO  12:39:05  Http GET request BenchmarkProvider
+INFO  12:39:05  Http GET request BenchmarkRepo
+INFO  12:39:58  Http GET request AuditBenchmarkController
+INFO  12:39:58  Http GET request BenchmarkProvider
+INFO  12:39:58  Http GET request BenchmarkRepo
+INFO  12:39:58  Http GET request AuditBenchmarkController
+INFO  12:39:58  Http GET request BenchmarkProvider
+INFO  12:39:58  Http GET request BenchmarkRepo
+INFO  12:54:16 Application started. Press Ctrl+C to shut down.
+INFO  12:54:16 Application started. Press Ctrl+C to shut down.
+INFO  12:54:16 Hosting environment: Development
+INFO  12:54:16 Hosting environment: Development
+INFO  12:54:16 Content root path: C:\Users\suvin\Downloads\Mfpe\AuditBenchmarkModule
+INFO  12:54:16 Content root path: C:\Users\suvin\Downloads\Mfpe\AuditBenchmarkModule
+INFO  12:54:16  Http GET request AuditBenchmarkController
+INFO  12:54:16  Http GET request BenchmarkProvider
+INFO  12:54:16  Http GET request BenchmarkRepo
+INFO  12:54:36  Http GET request AuditBenchmarkController
+INFO  12:54:36  Http GET request BenchmarkProvider
+INFO  12:54:36  Http GET request BenchmarkRepo
+INFO  12:54:36  Http GET request AuditBenchmarkController
+INFO  12:54:36  Http GET request BenchmarkProvider
+INFO  12:54:36  Http GET request BenchmarkRepo
+INFO  12:55:25  Http GET request AuditBenchmarkController
+INFO  12:55:25  Http GET request BenchmarkProvider
+INFO  12:55:25  Http GET request BenchmarkRepo
+INFO  12:55:26  Http GET request AuditBenchmarkController
+INFO  12:55:26  Http GET request BenchmarkProvider
+INFO  12:55:26  Http GET request BenchmarkRepo
+INFO  10:00:41 Now listening on: https://localhost:5001
+INFO  10:00:41 Now listening on: https://localhost:5001
+INFO  10:00:41 Now listening on: http://localhost:5000
+INFO  10:00:41 Now listening on: http://localhost:5000
+INFO  10:00:41 Application started. Press Ctrl+C to shut down.
+INFO  10:00:41 Application started. Press Ctrl+C to shut down.
+INFO  10:00:41 Hosting environment: Development
+INFO  10:00:41 Hosting environment: Development
+INFO  10:00:41 Content root path: E:\Cognizant\CTS Extra project\New folder\AuditManagementSystem-master\AuditBenchmarkModule
+INFO  10:00:41 Content root path: E:\Cognizant\CTS Extra project\New folder\AuditManagementSystem-master\AuditBenchmarkModule
+INFO  10:01:26  Http GET request AuditBenchmarkController
+INFO  10:01:26  Http GET request BenchmarkProvider
+INFO  10:01:26  Http GET request BenchmarkRepo
+INFO  10:04:55 Application is shutting down...
+INFO  10:04:55 Application is shutting down...
+INFO  10:11:24 Now listening on: https://localhost:4001
+INFO  10:11:24 Now listening on: https://localhost:4001
+INFO  10:11:24 Now listening on: http://localhost:4000
+INFO  10:11:24 Now listening on: http://localhost:4000
+INFO  10:11:24 Application started. Press Ctrl+C to shut down.
+INFO  10:11:24 Application started. Press Ctrl+C to shut down.
+INFO  10:11:24 Hosting environment: Development
+INFO  10:11:24 Hosting environment: Development
+INFO  10:11:24 Content root path: E:\Cognizant\CTS Extra project\New folder\AuditManagementSystem-master\AuditBenchmarkModule
+INFO  10:11:24 Content root path: E:\Cognizant\CTS Extra project\New folder\AuditManagementSystem-master\AuditBenchmarkModule
+INFO  10:19:51  Http GET request AuditBenchmarkController
+INFO  10:19:51  Http GET request BenchmarkProvider
+INFO  10:19:51  Http GET request BenchmarkRepo
+INFO  10:29:16  Http GET request AuditBenchmarkController
+INFO  10:29:16  Http GET request BenchmarkProvider
+INFO  10:29:16  Http GET request BenchmarkRepo
+INFO  10:32:00  Http GET request AuditBenchmarkController
+INFO  10:32:00  Http GET request BenchmarkProvider
+INFO  10:32:00  Http GET request BenchmarkRepo
+INFO  10:36:34  Http GET request AuditBenchmarkController
+INFO  10:36:34  Http GET request BenchmarkProvider
+INFO  10:36:34  Http GET request BenchmarkRepo
+INFO  10:45:46  Http GET request AuditBenchmarkController
+INFO  10:45:46  Http GET request BenchmarkProvider
+INFO  10:45:46  Http GET request BenchmarkRepo
+INFO  11:22:11  Http GET request AuditBenchmarkController
+INFO  11:22:11  Http GET request BenchmarkProvider
+INFO  11:22:11  Http GET request BenchmarkRepo
+INFO  11:29:12 Application is shutting down...
+INFO  11:29:12 Application is shutting down...
+INFO  07:26:54 Now listening on: https://localhost:4001
+INFO  07:26:54 Now listening on: https://localhost:4001
+INFO  07:26:54 Now listening on: http://localhost:4000
+INFO  07:26:54 Now listening on: http://localhost:4000
+INFO  07:26:54 Application started. Press Ctrl+C to shut down.
+INFO  07:26:54 Application started. Press Ctrl+C to shut down.
+INFO  07:26:54 Hosting environment: Development
+INFO  07:26:54 Hosting environment: Development
+INFO  07:26:54 Content root path: E:\Cognizant\CTS Extra project\New folder\AuditManagementSystem-master\AuditBenchmarkModule
+INFO  07:26:54 Content root path: E:\Cognizant\CTS Extra project\New folder\AuditManagementSystem-master\AuditBenchmarkModule
+INFO  07:28:14 Application is shutting down...
+INFO  07:28:14 Application is shutting down...
+INFO  05:41:04 Now listening on: https://localhost:4001
+INFO  05:41:04 Now listening on: https://localhost:4001
+INFO  05:41:04 Now listening on: http://localhost:4000
+INFO  05:41:04 Now listening on: http://localhost:4000
+INFO  05:41:04 Application started. Press Ctrl+C to shut down.
+INFO  05:41:04 Application started. Press Ctrl+C to shut down.
+INFO  05:41:04 Hosting environment: Development
+INFO  05:41:04 Hosting environment: Development
+INFO  05:41:04 Content root path: E:\Cognizant\CTS Extra project\New folder\AuditManagementSystem-master\AuditBenchmarkModule
+INFO  05:41:04 Content root path: E:\Cognizant\CTS Extra project\New folder\AuditManagementSystem-master\AuditBenchmarkModule
+INFO  05:42:12  Http GET request AuditBenchmarkController
+INFO  05:42:12  Http GET request BenchmarkProvider
+INFO  05:42:12  Http GET request BenchmarkRepo
+INFO  05:42:21 Application is shutting down...
+INFO  05:42:21 Application is shutting down...
+INFO  05:45:19 Now listening on: https://localhost:4001
+INFO  05:45:19 Now listening on: https://localhost:4001
+INFO  05:45:19 Now listening on: http://localhost:4000
+INFO  05:45:19 Now listening on: http://localhost:4000
+INFO  05:45:19 Application started. Press Ctrl+C to shut down.
+INFO  05:45:19 Application started. Press Ctrl+C to shut down.
+INFO  05:45:19 Hosting environment: Development
+INFO  05:45:19 Hosting environment: Development
+INFO  05:45:19 Content root path: E:\Cognizant\CTS Extra project\New folder\AuditManagementSystem-master\AuditBenchmarkModule
+INFO  05:45:19 Content root path: E:\Cognizant\CTS Extra project\New folder\AuditManagementSystem-master\AuditBenchmarkModule
+INFO  05:45:33  Http GET request AuditBenchmarkController
+INFO  05:45:33  Http GET request BenchmarkProvider
+INFO  05:45:33  Http GET request BenchmarkRepo
+INFO  05:45:40  Http GET request AuditBenchmarkController
+INFO  05:45:40  Http GET request BenchmarkProvider
+INFO  05:45:40  Http GET request BenchmarkRepo
+INFO  05:45:43  Http GET request AuditBenchmarkController
+INFO  05:45:43  Http GET request BenchmarkProvider
+INFO  05:45:43  Http GET request BenchmarkRepo
+INFO  05:45:45  Http GET request AuditBenchmarkController
+INFO  05:45:45  Http GET request BenchmarkProvider
+INFO  05:45:45  Http GET request BenchmarkRepo
+INFO  05:45:48  Http GET request AuditBenchmarkController
+INFO  05:45:48  Http GET request BenchmarkProvider
+INFO  05:45:48  Http GET request BenchmarkRepo
+INFO  05:54:02 Application is shutting down...
+INFO  05:54:02 Application is shutting down...
+INFO  05:54:16 Now listening on: https://localhost:4001
+INFO  05:54:16 Now listening on: https://localhost:4001
+INFO  05:54:16 Now listening on: http://localhost:4000
+INFO  05:54:16 Now listening on: http://localhost:4000
+INFO  05:54:16 Application started. Press Ctrl+C to shut down.
+INFO  05:54:16 Application started. Press Ctrl+C to shut down.
+INFO  05:54:16 Hosting environment: Development
+INFO  05:54:16 Hosting environment: Development
+INFO  05:54:16 Content root path: E:\Cognizant\CTS Extra project\New folder\AuditManagementSystem-master\AuditBenchmarkModule
+INFO  05:54:16 Content root path: E:\Cognizant\CTS Extra project\New folder\AuditManagementSystem-master\AuditBenchmarkModule
+INFO  05:54:23  Http GET request AuditBenchmarkController
+INFO  05:54:23  Http GET request BenchmarkProvider
+INFO  05:54:23  Http GET request BenchmarkRepo
+INFO  05:54:26  Http GET request AuditBenchmarkController
+INFO  05:54:26  Http GET request BenchmarkProvider
+INFO  05:54:26  Http GET request BenchmarkRepo
+INFO  05:54:27  Http GET request AuditBenchmarkController
+INFO  05:54:27  Http GET request BenchmarkProvider
+INFO  05:54:27  Http GET request BenchmarkRepo
+INFO  03:03:24 Now listening on: https://localhost:4001
+INFO  03:03:24 Now listening on: https://localhost:4001
+INFO  03:03:24 Now listening on: http://localhost:4000
+INFO  03:03:24 Now listening on: http://localhost:4000
+INFO  03:03:24 Application started. Press Ctrl+C to shut down.
+INFO  03:03:24 Application started. Press Ctrl+C to shut down.
+INFO  03:03:24 Hosting environment: Development
+INFO  03:03:24 Hosting environment: Development
+INFO  03:03:24 Content root path: E:\Cognizant\CTS Extra project\New folder\AuditManagementSystem-master\AuditBenchmarkModule
+INFO  03:03:24 Content root path: E:\Cognizant\CTS Extra project\New folder\AuditManagementSystem-master\AuditBenchmarkModule
+INFO  03:07:15  Http GET request AuditBenchmarkController
+INFO  03:07:15  Http GET request BenchmarkProvider
+INFO  03:07:15  Http GET request BenchmarkRepo
+INFO  03:08:26  Http GET request AuditBenchmarkController
+INFO  03:08:26  Http GET request BenchmarkProvider
+INFO  03:08:26  Http GET request BenchmarkRepo
+INFO  03:09:08  Http GET request AuditBenchmarkController
+INFO  03:09:08  Http GET request BenchmarkProvider
+INFO  03:09:08  Http GET request BenchmarkRepo
+INFO  03:09:21  Http GET request AuditBenchmarkController
+INFO  03:09:21  Http GET request BenchmarkProvider
+INFO  03:09:21  Http GET request BenchmarkRepo
+INFO  03:09:52  Http GET request AuditBenchmarkController
+INFO  03:09:52  Http GET request BenchmarkProvider
+INFO  03:09:52  Http GET request BenchmarkRepo
+INFO  03:09:58  Http GET request AuditBenchmarkController
+INFO  03:09:58  Http GET request BenchmarkProvider
+INFO  03:09:58  Http GET request BenchmarkRepo
+INFO  03:10:23  Http GET request AuditBenchmarkController
+INFO  03:10:23  Http GET request BenchmarkProvider
+INFO  03:10:23  Http GET request BenchmarkRepo
+INFO  03:10:37  Http GET request AuditBenchmarkController
+INFO  03:10:37  Http GET request BenchmarkProvider
+INFO  03:10:37  Http GET request BenchmarkRepo
+INFO  03:10:54  Http GET request AuditBenchmarkController
+INFO  03:10:54  Http GET request BenchmarkProvider
+INFO  03:10:54  Http GET request BenchmarkRepo
+INFO  03:11:06  Http GET request AuditBenchmarkController
+INFO  03:11:06  Http GET request BenchmarkProvider
+INFO  03:11:06  Http GET request BenchmarkRepo
+INFO  03:11:15  Http GET request AuditBenchmarkController
+INFO  03:11:15  Http GET request BenchmarkProvider
+INFO  03:11:15  Http GET request BenchmarkRepo
+INFO  03:11:33  Http GET request AuditBenchmarkController
+INFO  03:11:33  Http GET request BenchmarkProvider
+INFO  03:11:33  Http GET request BenchmarkRepo
+INFO  03:11:34  Http GET request AuditBenchmarkController
+INFO  03:11:34  Http GET request BenchmarkProvider
+INFO  03:11:34  Http GET request BenchmarkRepo
+INFO  03:11:51  Http GET request AuditBenchmarkController
+INFO  03:11:51  Http GET request BenchmarkProvider
+INFO  03:11:51  Http GET request BenchmarkRepo
+INFO  03:11:52  Http GET request AuditBenchmarkController
+INFO  03:11:52  Http GET request BenchmarkProvider
+INFO  03:11:52  Http GET request BenchmarkRepo
+INFO  03:12:02  Http GET request AuditBenchmarkController
+INFO  03:12:02  Http GET request BenchmarkProvider
+INFO  03:12:02  Http GET request BenchmarkRepo
+INFO  03:12:03  Http GET request AuditBenchmarkController
+INFO  03:12:03  Http GET request BenchmarkProvider
+INFO  03:12:03  Http GET request BenchmarkRepo
+INFO  03:12:04  Http GET request AuditBenchmarkController
+INFO  03:12:04  Http GET request BenchmarkProvider
+INFO  03:12:04  Http GET request BenchmarkRepo
+INFO  03:12:19  Http GET request AuditBenchmarkController
+INFO  03:12:19  Http GET request BenchmarkProvider
+INFO  03:12:19  Http GET request BenchmarkRepo
+INFO  03:12:38  Http GET request AuditBenchmarkController
+INFO  03:12:38  Http GET request BenchmarkProvider
+INFO  03:12:38  Http GET request BenchmarkRepo
+INFO  03:12:41  Http GET request AuditBenchmarkController
+INFO  03:12:41  Http GET request BenchmarkProvider
+INFO  03:12:41  Http GET request BenchmarkRepo
+INFO  03:13:00  Http GET request AuditBenchmarkController
+INFO  03:13:00  Http GET request BenchmarkProvider
+INFO  03:13:00  Http GET request BenchmarkRepo
+INFO  03:13:04  Http GET request AuditBenchmarkController
+INFO  03:13:04  Http GET request BenchmarkProvider
+INFO  03:13:04  Http GET request BenchmarkRepo
+INFO  03:13:06  Http GET request AuditBenchmarkController
+INFO  03:13:06  Http GET request BenchmarkProvider
+INFO  03:13:06  Http GET request BenchmarkRepo
+INFO  03:13:10  Http GET request AuditBenchmarkController
+INFO  03:13:10  Http GET request BenchmarkProvider
+INFO  03:13:10  Http GET request BenchmarkRepo
+INFO  03:13:14  Http GET request AuditBenchmarkController
+INFO  03:13:14  Http GET request BenchmarkProvider
+INFO  03:13:14  Http GET request BenchmarkRepo
+INFO  03:13:16  Http GET request AuditBenchmarkController
+INFO  03:13:16  Http GET request BenchmarkProvider
+INFO  03:13:16  Http GET request BenchmarkRepo
+INFO  03:13:21  Http GET request AuditBenchmarkController
+INFO  03:13:21  Http GET request BenchmarkProvider
+INFO  03:13:21  Http GET request BenchmarkRepo
+INFO  03:13:22  Http GET request AuditBenchmarkController
+INFO  03:13:22  Http GET request BenchmarkProvider
+INFO  03:13:22  Http GET request BenchmarkRepo
+INFO  03:13:27  Http GET request AuditBenchmarkController
+INFO  03:13:27  Http GET request BenchmarkProvider
+INFO  03:13:27  Http GET request BenchmarkRepo
+INFO  03:13:41  Http GET request AuditBenchmarkController
+INFO  03:13:41  Http GET request BenchmarkProvider
+INFO  03:13:41  Http GET request BenchmarkRepo
+INFO  03:20:53  Http GET request AuditBenchmarkController
+INFO  03:20:53  Http GET request BenchmarkProvider
+INFO  03:20:53  Http GET request BenchmarkRepo
+INFO  03:27:05  Http GET request AuditBenchmarkController
+INFO  03:27:05  Http GET request BenchmarkProvider
+INFO  03:27:05  Http GET request BenchmarkRepo
+INFO  03:27:13  Http GET request AuditBenchmarkController
+INFO  03:27:13  Http GET request BenchmarkProvider
+INFO  03:27:13  Http GET request BenchmarkRepo
+INFO  03:33:14  Http GET request AuditBenchmarkController
+INFO  03:33:14  Http GET request BenchmarkProvider
+INFO  03:33:14  Http GET request BenchmarkRepo
+INFO  03:34:20 Application is shutting down...
+INFO  03:34:20 Application is shutting down...
+INFO  12:32:54 Now listening on: https://localhost:4001
+INFO  12:32:55 Now listening on: https://localhost:4001
+INFO  12:32:55 Now listening on: http://localhost:4000
+INFO  12:32:55 Now listening on: http://localhost:4000
+INFO  12:32:55 Application started. Press Ctrl+C to shut down.
+INFO  12:32:55 Application started. Press Ctrl+C to shut down.
+INFO  12:32:55 Hosting environment: Development
+INFO  12:32:55 Hosting environment: Development
+INFO  12:32:55 Content root path: E:\Cognizant\CTS Extra project\New folder\AuditManagementSystem-master\AuditBenchmarkModule
+INFO  12:32:55 Content root path: E:\Cognizant\CTS Extra project\New folder\AuditManagementSystem-master\AuditBenchmarkModule
+WARN  12:33:03 Heartbeat took longer than "00:00:01" at "09/09/2022 07:03:02 +00:00". This could be caused by thread pool starvation.
+WARN  12:33:03 Heartbeat took longer than "00:00:01" at "09/09/2022 07:03:02 +00:00". This could be caused by thread pool starvation.
+INFO  12:38:41  Http GET request AuditBenchmarkController
+INFO  12:38:41  Http GET request BenchmarkProvider
+INFO  12:38:41  Http GET request BenchmarkRepo
+INFO  12:39:00  Http GET request AuditBenchmarkController
+INFO  12:39:00  Http GET request BenchmarkProvider
+INFO  12:39:00  Http GET request BenchmarkRepo
+ERROR 12:44:17 An unhandled exception has occurred while executing the request.
+Swashbuckle.AspNetCore.SwaggerGen.SwaggerGeneratorException: Ambiguous HTTP method for action - AuditBenchmarkModule.Controllers.AuditBenchmarkController.AuditBenchmark (AuditBenchmarkModule). Actions require an explicit HttpMethod binding for Swagger/OpenAPI 3.0
+   at Swashbuckle.AspNetCore.SwaggerGen.SwaggerGenerator.GenerateOperations(IEnumerable`1 apiDescriptions, SchemaRepository schemaRepository)
+   at Swashbuckle.AspNetCore.SwaggerGen.SwaggerGenerator.GeneratePaths(IEnumerable`1 apiDescriptions, SchemaRepository schemaRepository)
+   at Swashbuckle.AspNetCore.SwaggerGen.SwaggerGenerator.GetSwagger(String documentName, String host, String basePath)
+   at Swashbuckle.AspNetCore.Swagger.SwaggerMiddleware.Invoke(HttpContext httpContext, ISwaggerProvider swaggerProvider)
+   at Microsoft.AspNetCore.Diagnostics.DeveloperExceptionPageMiddleware.Invoke(HttpContext context)
+ERROR 12:44:17 An unhandled exception has occurred while executing the request.
+Swashbuckle.AspNetCore.SwaggerGen.SwaggerGeneratorException: Ambiguous HTTP method for action - AuditBenchmarkModule.Controllers.AuditBenchmarkController.AuditBenchmark (AuditBenchmarkModule). Actions require an explicit HttpMethod binding for Swagger/OpenAPI 3.0
+   at Swashbuckle.AspNetCore.SwaggerGen.SwaggerGenerator.GenerateOperations(IEnumerable`1 apiDescriptions, SchemaRepository schemaRepository)
+   at Swashbuckle.AspNetCore.SwaggerGen.SwaggerGenerator.GeneratePaths(IEnumerable`1 apiDescriptions, SchemaRepository schemaRepository)
+   at Swashbuckle.AspNetCore.SwaggerGen.SwaggerGenerator.GetSwagger(String documentName, String host, String basePath)
+   at Swashbuckle.AspNetCore.Swagger.SwaggerMiddleware.Invoke(HttpContext httpContext, ISwaggerProvider swaggerProvider)
+   at Microsoft.AspNetCore.Diagnostics.DeveloperExceptionPageMiddleware.Invoke(HttpContext context)
+ERROR 12:44:25 An unhandled exception has occurred while executing the request.
+Swashbuckle.AspNetCore.SwaggerGen.SwaggerGeneratorException: Ambiguous HTTP method for action - AuditBenchmarkModule.Controllers.AuditBenchmarkController.AuditBenchmark (AuditBenchmarkModule). Actions require an explicit HttpMethod binding for Swagger/OpenAPI 3.0
+   at Swashbuckle.AspNetCore.SwaggerGen.SwaggerGenerator.GenerateOperations(IEnumerable`1 apiDescriptions, SchemaRepository schemaRepository)
+   at Swashbuckle.AspNetCore.SwaggerGen.SwaggerGenerator.GeneratePaths(IEnumerable`1 apiDescriptions, SchemaRepository schemaRepository)
+   at Swashbuckle.AspNetCore.SwaggerGen.SwaggerGenerator.GetSwagger(String documentName, String host, String basePath)
+   at Swashbuckle.AspNetCore.Swagger.SwaggerMiddleware.Invoke(HttpContext httpContext, ISwaggerProvider swaggerProvider)
+   at Microsoft.AspNetCore.Diagnostics.DeveloperExceptionPageMiddleware.Invoke(HttpContext context)
+ERROR 12:44:25 An unhandled exception has occurred while executing the request.
+Swashbuckle.AspNetCore.SwaggerGen.SwaggerGeneratorException: Ambiguous HTTP method for action - AuditBenchmarkModule.Controllers.AuditBenchmarkController.AuditBenchmark (AuditBenchmarkModule). Actions require an explicit HttpMethod binding for Swagger/OpenAPI 3.0
+   at Swashbuckle.AspNetCore.SwaggerGen.SwaggerGenerator.GenerateOperations(IEnumerable`1 apiDescriptions, SchemaRepository schemaRepository)
+   at Swashbuckle.AspNetCore.SwaggerGen.SwaggerGenerator.GeneratePaths(IEnumerable`1 apiDescriptions, SchemaRepository schemaRepository)
+   at Swashbuckle.AspNetCore.SwaggerGen.SwaggerGenerator.GetSwagger(String documentName, String host, String basePath)
+   at Swashbuckle.AspNetCore.Swagger.SwaggerMiddleware.Invoke(HttpContext httpContext, ISwaggerProvider swaggerProvider)
+   at Microsoft.AspNetCore.Diagnostics.DeveloperExceptionPageMiddleware.Invoke(HttpContext context)
+INFO  12:44:57 Application is shutting down...
+INFO  12:44:57 Application is shutting down...
+INFO  12:46:13 Now listening on: https://localhost:4001
+INFO  12:46:13 Now listening on: https://localhost:4001
+INFO  12:46:13 Now listening on: http://localhost:4000
+INFO  12:46:13 Now listening on: http://localhost:4000
+INFO  12:46:13 Application started. Press Ctrl+C to shut down.
+INFO  12:46:13 Application started. Press Ctrl+C to shut down.
+INFO  12:46:13 Hosting environment: Development
+INFO  12:46:13 Hosting environment: Development
+INFO  12:46:13 Content root path: E:\Cognizant\CTS Extra project\New folder\AuditManagementSystem-master\AuditBenchmarkModule
+INFO  12:46:13 Content root path: E:\Cognizant\CTS Extra project\New folder\AuditManagementSystem-master\AuditBenchmarkModule
+ERROR 12:46:59 An unhandled exception has occurred while executing the request.
+Swashbuckle.AspNetCore.SwaggerGen.SwaggerGeneratorException: Ambiguous HTTP method for action - AuditBenchmarkModule.Controllers.AuditBenchmarkController.AuditBenchmark (AuditBenchmarkModule). Actions require an explicit HttpMethod binding for Swagger/OpenAPI 3.0
+   at Swashbuckle.AspNetCore.SwaggerGen.SwaggerGenerator.GenerateOperations(IEnumerable`1 apiDescriptions, SchemaRepository schemaRepository)
+   at Swashbuckle.AspNetCore.SwaggerGen.SwaggerGenerator.GeneratePaths(IEnumerable`1 apiDescriptions, SchemaRepository schemaRepository)
+   at Swashbuckle.AspNetCore.SwaggerGen.SwaggerGenerator.GetSwagger(String documentName, String host, String basePath)
+   at Swashbuckle.AspNetCore.Swagger.SwaggerMiddleware.Invoke(HttpContext httpContext, ISwaggerProvider swaggerProvider)
+   at Microsoft.AspNetCore.Diagnostics.DeveloperExceptionPageMiddleware.Invoke(HttpContext context)
+ERROR 12:46:59 An unhandled exception has occurred while executing the request.
+Swashbuckle.AspNetCore.SwaggerGen.SwaggerGeneratorException: Ambiguous HTTP method for action - AuditBenchmarkModule.Controllers.AuditBenchmarkController.AuditBenchmark (AuditBenchmarkModule). Actions require an explicit HttpMethod binding for Swagger/OpenAPI 3.0
+   at Swashbuckle.AspNetCore.SwaggerGen.SwaggerGenerator.GenerateOperations(IEnumerable`1 apiDescriptions, SchemaRepository schemaRepository)
+   at Swashbuckle.AspNetCore.SwaggerGen.SwaggerGenerator.GeneratePaths(IEnumerable`1 apiDescriptions, SchemaRepository schemaRepository)
+   at Swashbuckle.AspNetCore.SwaggerGen.SwaggerGenerator.GetSwagger(String documentName, String host, String basePath)
+   at Swashbuckle.AspNetCore.Swagger.SwaggerMiddleware.Invoke(HttpContext httpContext, ISwaggerProvider swaggerProvider)
+   at Microsoft.AspNetCore.Diagnostics.DeveloperExceptionPageMiddleware.Invoke(HttpContext context)
+INFO  12:47:15 Application is shutting down...
+INFO  12:47:15 Application is shutting down...
+INFO  12:47:46 Now listening on: https://localhost:4001
+INFO  12:47:46 Now listening on: https://localhost:4001
+INFO  12:47:46 Now listening on: http://localhost:4000
+INFO  12:47:46 Now listening on: http://localhost:4000
+INFO  12:47:46 Application started. Press Ctrl+C to shut down.
+INFO  12:47:46 Application started. Press Ctrl+C to shut down.
+INFO  12:47:46 Hosting environment: Development
+INFO  12:47:46 Hosting environment: Development
+INFO  12:47:46 Content root path: E:\Cognizant\CTS Extra project\New folder\AuditManagementSystem-master\AuditBenchmarkModule
+INFO  12:47:46 Content root path: E:\Cognizant\CTS Extra project\New folder\AuditManagementSystem-master\AuditBenchmarkModule
+INFO  12:48:04  Http GET request AuditBenchmarkController
+INFO  12:48:04  Http GET request BenchmarkProvider
+INFO  12:48:04  Http GET request BenchmarkRepo
+ERROR 12:48:17 An unhandled exception has occurred while executing the request.
+Swashbuckle.AspNetCore.SwaggerGen.SwaggerGeneratorException: Ambiguous HTTP method for action - AuditBenchmarkModule.Controllers.AuditBenchmarkController.AuditBenchmark (AuditBenchmarkModule). Actions require an explicit HttpMethod binding for Swagger/OpenAPI 3.0
+   at Swashbuckle.AspNetCore.SwaggerGen.SwaggerGenerator.GenerateOperations(IEnumerable`1 apiDescriptions, SchemaRepository schemaRepository)
+   at Swashbuckle.AspNetCore.SwaggerGen.SwaggerGenerator.GeneratePaths(IEnumerable`1 apiDescriptions, SchemaRepository schemaRepository)
+   at Swashbuckle.AspNetCore.SwaggerGen.SwaggerGenerator.GetSwagger(String documentName, String host, String basePath)
+   at Swashbuckle.AspNetCore.Swagger.SwaggerMiddleware.Invoke(HttpContext httpContext, ISwaggerProvider swaggerProvider)
+   at Microsoft.AspNetCore.Diagnostics.DeveloperExceptionPageMiddleware.Invoke(HttpContext context)
+ERROR 12:48:17 An unhandled exception has occurred while executing the request.
+Swashbuckle.AspNetCore.SwaggerGen.SwaggerGeneratorException: Ambiguous HTTP method for action - AuditBenchmarkModule.Controllers.AuditBenchmarkController.AuditBenchmark (AuditBenchmarkModule). Actions require an explicit HttpMethod binding for Swagger/OpenAPI 3.0
+   at Swashbuckle.AspNetCore.SwaggerGen.SwaggerGenerator.GenerateOperations(IEnumerable`1 apiDescriptions, SchemaRepository schemaRepository)
+   at Swashbuckle.AspNetCore.SwaggerGen.SwaggerGenerator.GeneratePaths(IEnumerable`1 apiDescriptions, SchemaRepository schemaRepository)
+   at Swashbuckle.AspNetCore.SwaggerGen.SwaggerGenerator.GetSwagger(String documentName, String host, String basePath)
+   at Swashbuckle.AspNetCore.Swagger.SwaggerMiddleware.Invoke(HttpContext httpContext, ISwaggerProvider swaggerProvider)
+   at Microsoft.AspNetCore.Diagnostics.DeveloperExceptionPageMiddleware.Invoke(HttpContext context)
+INFO  12:49:35 Application is shutting down...
+INFO  12:49:35 Application is shutting down...
+INFO  12:49:58 Now listening on: https://localhost:4001
+INFO  12:49:58 Now listening on: https://localhost:4001
+INFO  12:49:58 Now listening on: http://localhost:4000
+INFO  12:49:58 Now listening on: http://localhost:4000
+INFO  12:49:58 Application started. Press Ctrl+C to shut down.
+INFO  12:49:58 Application started. Press Ctrl+C to shut down.
+INFO  12:49:58 Hosting environment: Development
+INFO  12:49:58 Hosting environment: Development
+INFO  12:49:58 Content root path: E:\Cognizant\CTS Extra project\New folder\AuditManagementSystem-master\AuditBenchmarkModule
+INFO  12:49:58 Content root path: E:\Cognizant\CTS Extra project\New folder\AuditManagementSystem-master\AuditBenchmarkModule
+ERROR 12:50:24 An unhandled exception has occurred while executing the request.
+Swashbuckle.AspNetCore.SwaggerGen.SwaggerGeneratorException: Ambiguous HTTP method for action - AuditBenchmarkModule.Controllers.AuditBenchmarkController.AuditBenchmark (AuditBenchmarkModule). Actions require an explicit HttpMethod binding for Swagger/OpenAPI 3.0
+   at Swashbuckle.AspNetCore.SwaggerGen.SwaggerGenerator.GenerateOperations(IEnumerable`1 apiDescriptions, SchemaRepository schemaRepository)
+   at Swashbuckle.AspNetCore.SwaggerGen.SwaggerGenerator.GeneratePaths(IEnumerable`1 apiDescriptions, SchemaRepository schemaRepository)
+   at Swashbuckle.AspNetCore.SwaggerGen.SwaggerGenerator.GetSwagger(String documentName, String host, String basePath)
+   at Swashbuckle.AspNetCore.Swagger.SwaggerMiddleware.Invoke(HttpContext httpContext, ISwaggerProvider swaggerProvider)
+   at Microsoft.AspNetCore.Diagnostics.DeveloperExceptionPageMiddleware.Invoke(HttpContext context)
+ERROR 12:50:24 An unhandled exception has occurred while executing the request.
+Swashbuckle.AspNetCore.SwaggerGen.SwaggerGeneratorException: Ambiguous HTTP method for action - AuditBenchmarkModule.Controllers.AuditBenchmarkController.AuditBenchmark (AuditBenchmarkModule). Actions require an explicit HttpMethod binding for Swagger/OpenAPI 3.0
+   at Swashbuckle.AspNetCore.SwaggerGen.SwaggerGenerator.GenerateOperations(IEnumerable`1 apiDescriptions, SchemaRepository schemaRepository)
+   at Swashbuckle.AspNetCore.SwaggerGen.SwaggerGenerator.GeneratePaths(IEnumerable`1 apiDescriptions, SchemaRepository schemaRepository)
+   at Swashbuckle.AspNetCore.SwaggerGen.SwaggerGenerator.GetSwagger(String documentName, String host, String basePath)
+   at Swashbuckle.AspNetCore.Swagger.SwaggerMiddleware.Invoke(HttpContext httpContext, ISwaggerProvider swaggerProvider)
+   at Microsoft.AspNetCore.Diagnostics.DeveloperExceptionPageMiddleware.Invoke(HttpContext context)
+INFO  12:52:59 Application is shutting down...
+INFO  12:52:59 Application is shutting down...
+INFO  12:53:10 Now listening on: https://localhost:4001
+INFO  12:53:10 Now listening on: https://localhost:4001
+INFO  12:53:10 Now listening on: http://localhost:4000
+INFO  12:53:10 Now listening on: http://localhost:4000
+INFO  12:53:10 Application started. Press Ctrl+C to shut down.
+INFO  12:53:10 Application started. Press Ctrl+C to shut down.
+INFO  12:53:10 Hosting environment: Development
+INFO  12:53:10 Hosting environment: Development
+INFO  12:53:10 Content root path: E:\Cognizant\CTS Extra project\New folder\AuditManagementSystem-master\AuditBenchmarkModule
+INFO  12:53:10 Content root path: E:\Cognizant\CTS Extra project\New folder\AuditManagementSystem-master\AuditBenchmarkModule
+ERROR 12:53:16 An unhandled exception has occurred while executing the request.
+Swashbuckle.AspNetCore.SwaggerGen.SwaggerGeneratorException: Ambiguous HTTP method for action - AuditBenchmarkModule.Controllers.AuditBenchmarkController.AuditBenchmark (AuditBenchmarkModule). Actions require an explicit HttpMethod binding for Swagger/OpenAPI 3.0
+   at Swashbuckle.AspNetCore.SwaggerGen.SwaggerGenerator.GenerateOperations(IEnumerable`1 apiDescriptions, SchemaRepository schemaRepository)
+   at Swashbuckle.AspNetCore.SwaggerGen.SwaggerGenerator.GeneratePaths(IEnumerable`1 apiDescriptions, SchemaRepository schemaRepository)
+   at Swashbuckle.AspNetCore.SwaggerGen.SwaggerGenerator.GetSwagger(String documentName, String host, String basePath)
+   at Swashbuckle.AspNetCore.Swagger.SwaggerMiddleware.Invoke(HttpContext httpContext, ISwaggerProvider swaggerProvider)
+   at Microsoft.AspNetCore.Diagnostics.DeveloperExceptionPageMiddleware.Invoke(HttpContext context)
+ERROR 12:53:16 An unhandled exception has occurred while executing the request.
+Swashbuckle.AspNetCore.SwaggerGen.SwaggerGeneratorException: Ambiguous HTTP method for action - AuditBenchmarkModule.Controllers.AuditBenchmarkController.AuditBenchmark (AuditBenchmarkModule). Actions require an explicit HttpMethod binding for Swagger/OpenAPI 3.0
+   at Swashbuckle.AspNetCore.SwaggerGen.SwaggerGenerator.GenerateOperations(IEnumerable`1 apiDescriptions, SchemaRepository schemaRepository)
+   at Swashbuckle.AspNetCore.SwaggerGen.SwaggerGenerator.GeneratePaths(IEnumerable`1 apiDescriptions, SchemaRepository schemaRepository)
+   at Swashbuckle.AspNetCore.SwaggerGen.SwaggerGenerator.GetSwagger(String documentName, String host, String basePath)
+   at Swashbuckle.AspNetCore.Swagger.SwaggerMiddleware.Invoke(HttpContext httpContext, ISwaggerProvider swaggerProvider)
+   at Microsoft.AspNetCore.Diagnostics.DeveloperExceptionPageMiddleware.Invoke(HttpContext context)
+INFO  12:53:20  Http GET request AuditBenchmarkController
+INFO  12:53:20  Http GET request BenchmarkProvider
+INFO  12:53:20  Http GET request BenchmarkRepo
+ERROR 12:53:27 An unhandled exception has occurred while executing the request.
+Swashbuckle.AspNetCore.SwaggerGen.SwaggerGeneratorException: Ambiguous HTTP method for action - AuditBenchmarkModule.Controllers.AuditBenchmarkController.AuditBenchmark (AuditBenchmarkModule). Actions require an explicit HttpMethod binding for Swagger/OpenAPI 3.0
+   at Swashbuckle.AspNetCore.SwaggerGen.SwaggerGenerator.GenerateOperations(IEnumerable`1 apiDescriptions, SchemaRepository schemaRepository)
+   at Swashbuckle.AspNetCore.SwaggerGen.SwaggerGenerator.GeneratePaths(IEnumerable`1 apiDescriptions, SchemaRepository schemaRepository)
+   at Swashbuckle.AspNetCore.SwaggerGen.SwaggerGenerator.GetSwagger(String documentName, String host, String basePath)
+   at Swashbuckle.AspNetCore.Swagger.SwaggerMiddleware.Invoke(HttpContext httpContext, ISwaggerProvider swaggerProvider)
+   at Microsoft.AspNetCore.Diagnostics.DeveloperExceptionPageMiddleware.Invoke(HttpContext context)
+ERROR 12:53:27 An unhandled exception has occurred while executing the request.
+Swashbuckle.AspNetCore.SwaggerGen.SwaggerGeneratorException: Ambiguous HTTP method for action - AuditBenchmarkModule.Controllers.AuditBenchmarkController.AuditBenchmark (AuditBenchmarkModule). Actions require an explicit HttpMethod binding for Swagger/OpenAPI 3.0
+   at Swashbuckle.AspNetCore.SwaggerGen.SwaggerGenerator.GenerateOperations(IEnumerable`1 apiDescriptions, SchemaRepository schemaRepository)
+   at Swashbuckle.AspNetCore.SwaggerGen.SwaggerGenerator.GeneratePaths(IEnumerable`1 apiDescriptions, SchemaRepository schemaRepository)
+   at Swashbuckle.AspNetCore.SwaggerGen.SwaggerGenerator.GetSwagger(String documentName, String host, String basePath)
+   at Swashbuckle.AspNetCore.Swagger.SwaggerMiddleware.Invoke(HttpContext httpContext, ISwaggerProvider swaggerProvider)
+   at Microsoft.AspNetCore.Diagnostics.DeveloperExceptionPageMiddleware.Invoke(HttpContext context)
+INFO  12:55:38 Application is shutting down...
+INFO  12:55:38 Application is shutting down...
+INFO  12:55:49 Now listening on: https://localhost:4001
+INFO  12:55:49 Now listening on: https://localhost:4001
+INFO  12:55:49 Now listening on: http://localhost:4000
+INFO  12:55:49 Now listening on: http://localhost:4000
+INFO  12:55:49 Application started. Press Ctrl+C to shut down.
+INFO  12:55:49 Application started. Press Ctrl+C to shut down.
+INFO  12:55:49 Hosting environment: Development
+INFO  12:55:49 Hosting environment: Development
+INFO  12:55:49 Content root path: E:\Cognizant\CTS Extra project\New folder\AuditManagementSystem-master\AuditBenchmarkModule
+INFO  12:55:49 Content root path: E:\Cognizant\CTS Extra project\New folder\AuditManagementSystem-master\AuditBenchmarkModule
+ERROR 12:55:53 An unhandled exception has occurred while executing the request.
+Swashbuckle.AspNetCore.SwaggerGen.SwaggerGeneratorException: Ambiguous HTTP method for action - AuditBenchmarkModule.Controllers.AuditBenchmarkController.AuditBenchmark (AuditBenchmarkModule). Actions require an explicit HttpMethod binding for Swagger/OpenAPI 3.0
+   at Swashbuckle.AspNetCore.SwaggerGen.SwaggerGenerator.GenerateOperations(IEnumerable`1 apiDescriptions, SchemaRepository schemaRepository)
+   at Swashbuckle.AspNetCore.SwaggerGen.SwaggerGenerator.GeneratePaths(IEnumerable`1 apiDescriptions, SchemaRepository schemaRepository)
+   at Swashbuckle.AspNetCore.SwaggerGen.SwaggerGenerator.GetSwagger(String documentName, String host, String basePath)
+   at Swashbuckle.AspNetCore.Swagger.SwaggerMiddleware.Invoke(HttpContext httpContext, ISwaggerProvider swaggerProvider)
+   at Microsoft.AspNetCore.Diagnostics.DeveloperExceptionPageMiddleware.Invoke(HttpContext context)
+ERROR 12:55:53 An unhandled exception has occurred while executing the request.
+Swashbuckle.AspNetCore.SwaggerGen.SwaggerGeneratorException: Ambiguous HTTP method for action - AuditBenchmarkModule.Controllers.AuditBenchmarkController.AuditBenchmark (AuditBenchmarkModule). Actions require an explicit HttpMethod binding for Swagger/OpenAPI 3.0
+   at Swashbuckle.AspNetCore.SwaggerGen.SwaggerGenerator.GenerateOperations(IEnumerable`1 apiDescriptions, SchemaRepository schemaRepository)
+   at Swashbuckle.AspNetCore.SwaggerGen.SwaggerGenerator.GeneratePaths(IEnumerable`1 apiDescriptions, SchemaRepository schemaRepository)
+   at Swashbuckle.AspNetCore.SwaggerGen.SwaggerGenerator.GetSwagger(String documentName, String host, String basePath)
+   at Swashbuckle.AspNetCore.Swagger.SwaggerMiddleware.Invoke(HttpContext httpContext, ISwaggerProvider swaggerProvider)
+   at Microsoft.AspNetCore.Diagnostics.DeveloperExceptionPageMiddleware.Invoke(HttpContext context)
+INFO  12:56:36 Application is shutting down...
+INFO  12:56:36 Application is shutting down...
+INFO  12:57:30 Now listening on: https://localhost:4001
+INFO  12:57:30 Now listening on: https://localhost:4001
+INFO  12:57:30 Now listening on: http://localhost:4000
+INFO  12:57:30 Now listening on: http://localhost:4000
+INFO  12:57:30 Application started. Press Ctrl+C to shut down.
+INFO  12:57:30 Application started. Press Ctrl+C to shut down.
+INFO  12:57:30 Hosting environment: Development
+INFO  12:57:30 Hosting environment: Development
+INFO  12:57:30 Content root path: E:\Cognizant\CTS Extra project\New folder\AuditManagementSystem-master\AuditBenchmarkModule
+INFO  12:57:30 Content root path: E:\Cognizant\CTS Extra project\New folder\AuditManagementSystem-master\AuditBenchmarkModule
+ERROR 12:58:15 An unhandled exception has occurred while executing the request.
+Swashbuckle.AspNetCore.SwaggerGen.SwaggerGeneratorException: Ambiguous HTTP method for action - AuditBenchmarkModule.Controllers.AuditBenchmarkController.AuditBenchmark (AuditBenchmarkModule). Actions require an explicit HttpMethod binding for Swagger/OpenAPI 3.0
+   at Swashbuckle.AspNetCore.SwaggerGen.SwaggerGenerator.GenerateOperations(IEnumerable`1 apiDescriptions, SchemaRepository schemaRepository)
+   at Swashbuckle.AspNetCore.SwaggerGen.SwaggerGenerator.GeneratePaths(IEnumerable`1 apiDescriptions, SchemaRepository schemaRepository)
+   at Swashbuckle.AspNetCore.SwaggerGen.SwaggerGenerator.GetSwagger(String documentName, String host, String basePath)
+   at Swashbuckle.AspNetCore.Swagger.SwaggerMiddleware.Invoke(HttpContext httpContext, ISwaggerProvider swaggerProvider)
+   at Microsoft.AspNetCore.Diagnostics.DeveloperExceptionPageMiddleware.Invoke(HttpContext context)
+ERROR 12:58:15 An unhandled exception has occurred while executing the request.
+Swashbuckle.AspNetCore.SwaggerGen.SwaggerGeneratorException: Ambiguous HTTP method for action - AuditBenchmarkModule.Controllers.AuditBenchmarkController.AuditBenchmark (AuditBenchmarkModule). Actions require an explicit HttpMethod binding for Swagger/OpenAPI 3.0
+   at Swashbuckle.AspNetCore.SwaggerGen.SwaggerGenerator.GenerateOperations(IEnumerable`1 apiDescriptions, SchemaRepository schemaRepository)
+   at Swashbuckle.AspNetCore.SwaggerGen.SwaggerGenerator.GeneratePaths(IEnumerable`1 apiDescriptions, SchemaRepository schemaRepository)
+   at Swashbuckle.AspNetCore.SwaggerGen.SwaggerGenerator.GetSwagger(String documentName, String host, String basePath)
+   at Swashbuckle.AspNetCore.Swagger.SwaggerMiddleware.Invoke(HttpContext httpContext, ISwaggerProvider swaggerProvider)
+   at Microsoft.AspNetCore.Diagnostics.DeveloperExceptionPageMiddleware.Invoke(HttpContext context)
+INFO  01:00:09 Application is shutting down...
+INFO  01:00:09 Application is shutting down...
+INFO  01:00:33 Now listening on: https://localhost:4001
+INFO  01:00:33 Now listening on: https://localhost:4001
+INFO  01:00:33 Now listening on: http://localhost:4000
+INFO  01:00:33 Now listening on: http://localhost:4000
+INFO  01:00:33 Application started. Press Ctrl+C to shut down.
+INFO  01:00:33 Application started. Press Ctrl+C to shut down.
+INFO  01:00:33 Hosting environment: Development
+INFO  01:00:33 Hosting environment: Development
+INFO  01:00:33 Content root path: E:\Cognizant\CTS Extra project\New folder\AuditManagementSystem-master\AuditBenchmarkModule
+INFO  01:00:33 Content root path: E:\Cognizant\CTS Extra project\New folder\AuditManagementSystem-master\AuditBenchmarkModule
+ERROR 01:00:49 An unhandled exception has occurred while executing the request.
+Swashbuckle.AspNetCore.SwaggerGen.SwaggerGeneratorException: Ambiguous HTTP method for action - AuditBenchmarkModule.Controllers.AuditBenchmarkController.AuditBenchmark (AuditBenchmarkModule). Actions require an explicit HttpMethod binding for Swagger/OpenAPI 3.0
+   at Swashbuckle.AspNetCore.SwaggerGen.SwaggerGenerator.GenerateOperations(IEnumerable`1 apiDescriptions, SchemaRepository schemaRepository)
+   at Swashbuckle.AspNetCore.SwaggerGen.SwaggerGenerator.GeneratePaths(IEnumerable`1 apiDescriptions, SchemaRepository schemaRepository)
+   at Swashbuckle.AspNetCore.SwaggerGen.SwaggerGenerator.GetSwagger(String documentName, String host, String basePath)
+   at Swashbuckle.AspNetCore.Swagger.SwaggerMiddleware.Invoke(HttpContext httpContext, ISwaggerProvider swaggerProvider)
+   at Microsoft.AspNetCore.Diagnostics.DeveloperExceptionPageMiddleware.Invoke(HttpContext context)
+ERROR 01:00:49 An unhandled exception has occurred while executing the request.
+Swashbuckle.AspNetCore.SwaggerGen.SwaggerGeneratorException: Ambiguous HTTP method for action - AuditBenchmarkModule.Controllers.AuditBenchmarkController.AuditBenchmark (AuditBenchmarkModule). Actions require an explicit HttpMethod binding for Swagger/OpenAPI 3.0
+   at Swashbuckle.AspNetCore.SwaggerGen.SwaggerGenerator.GenerateOperations(IEnumerable`1 apiDescriptions, SchemaRepository schemaRepository)
+   at Swashbuckle.AspNetCore.SwaggerGen.SwaggerGenerator.GeneratePaths(IEnumerable`1 apiDescriptions, SchemaRepository schemaRepository)
+   at Swashbuckle.AspNetCore.SwaggerGen.SwaggerGenerator.GetSwagger(String documentName, String host, String basePath)
+   at Swashbuckle.AspNetCore.Swagger.SwaggerMiddleware.Invoke(HttpContext httpContext, ISwaggerProvider swaggerProvider)
+   at Microsoft.AspNetCore.Diagnostics.DeveloperExceptionPageMiddleware.Invoke(HttpContext context)
+ERROR 01:02:33 An unhandled exception has occurred while executing the request.
+Swashbuckle.AspNetCore.SwaggerGen.SwaggerGeneratorException: Ambiguous HTTP method for action - AuditBenchmarkModule.Controllers.AuditBenchmarkController.AuditBenchmark (AuditBenchmarkModule). Actions require an explicit HttpMethod binding for Swagger/OpenAPI 3.0
+   at Swashbuckle.AspNetCore.SwaggerGen.SwaggerGenerator.GenerateOperations(IEnumerable`1 apiDescriptions, SchemaRepository schemaRepository)
+   at Swashbuckle.AspNetCore.SwaggerGen.SwaggerGenerator.GeneratePaths(IEnumerable`1 apiDescriptions, SchemaRepository schemaRepository)
+   at Swashbuckle.AspNetCore.SwaggerGen.SwaggerGenerator.GetSwagger(String documentName, String host, String basePath)
+   at Swashbuckle.AspNetCore.Swagger.SwaggerMiddleware.Invoke(HttpContext httpContext, ISwaggerProvider swaggerProvider)
+   at Microsoft.AspNetCore.Diagnostics.DeveloperExceptionPageMiddleware.Invoke(HttpContext context)
+ERROR 01:02:33 An unhandled exception has occurred while executing the request.
+Swashbuckle.AspNetCore.SwaggerGen.SwaggerGeneratorException: Ambiguous HTTP method for action - AuditBenchmarkModule.Controllers.AuditBenchmarkController.AuditBenchmark (AuditBenchmarkModule). Actions require an explicit HttpMethod binding for Swagger/OpenAPI 3.0
+   at Swashbuckle.AspNetCore.SwaggerGen.SwaggerGenerator.GenerateOperations(IEnumerable`1 apiDescriptions, SchemaRepository schemaRepository)
+   at Swashbuckle.AspNetCore.SwaggerGen.SwaggerGenerator.GeneratePaths(IEnumerable`1 apiDescriptions, SchemaRepository schemaRepository)
+   at Swashbuckle.AspNetCore.SwaggerGen.SwaggerGenerator.GetSwagger(String documentName, String host, String basePath)
+   at Swashbuckle.AspNetCore.Swagger.SwaggerMiddleware.Invoke(HttpContext httpContext, ISwaggerProvider swaggerProvider)
+   at Microsoft.AspNetCore.Diagnostics.DeveloperExceptionPageMiddleware.Invoke(HttpContext context)
+ERROR 01:02:35 An unhandled exception has occurred while executing the request.
+Swashbuckle.AspNetCore.SwaggerGen.SwaggerGeneratorException: Ambiguous HTTP method for action - AuditBenchmarkModule.Controllers.AuditBenchmarkController.AuditBenchmark (AuditBenchmarkModule). Actions require an explicit HttpMethod binding for Swagger/OpenAPI 3.0
+   at Swashbuckle.AspNetCore.SwaggerGen.SwaggerGenerator.GenerateOperations(IEnumerable`1 apiDescriptions, SchemaRepository schemaRepository)
+   at Swashbuckle.AspNetCore.SwaggerGen.SwaggerGenerator.GeneratePaths(IEnumerable`1 apiDescriptions, SchemaRepository schemaRepository)
+   at Swashbuckle.AspNetCore.SwaggerGen.SwaggerGenerator.GetSwagger(String documentName, String host, String basePath)
+   at Swashbuckle.AspNetCore.Swagger.SwaggerMiddleware.Invoke(HttpContext httpContext, ISwaggerProvider swaggerProvider)
+   at Microsoft.AspNetCore.Diagnostics.DeveloperExceptionPageMiddleware.Invoke(HttpContext context)
+ERROR 01:02:35 An unhandled exception has occurred while executing the request.
+Swashbuckle.AspNetCore.SwaggerGen.SwaggerGeneratorException: Ambiguous HTTP method for action - AuditBenchmarkModule.Controllers.AuditBenchmarkController.AuditBenchmark (AuditBenchmarkModule). Actions require an explicit HttpMethod binding for Swagger/OpenAPI 3.0
+   at Swashbuckle.AspNetCore.SwaggerGen.SwaggerGenerator.GenerateOperations(IEnumerable`1 apiDescriptions, SchemaRepository schemaRepository)
+   at Swashbuckle.AspNetCore.SwaggerGen.SwaggerGenerator.GeneratePaths(IEnumerable`1 apiDescriptions, SchemaRepository schemaRepository)
+   at Swashbuckle.AspNetCore.SwaggerGen.SwaggerGenerator.GetSwagger(String documentName, String host, String basePath)
+   at Swashbuckle.AspNetCore.Swagger.SwaggerMiddleware.Invoke(HttpContext httpContext, ISwaggerProvider swaggerProvider)
+   at Microsoft.AspNetCore.Diagnostics.DeveloperExceptionPageMiddleware.Invoke(HttpContext context)
+INFO  01:03:11 Application is shutting down...
+INFO  01:03:11 Application is shutting down...
+INFO  01:03:22 Now listening on: https://localhost:4001
+INFO  01:03:22 Now listening on: https://localhost:4001
+INFO  01:03:22 Now listening on: http://localhost:4000
+INFO  01:03:22 Now listening on: http://localhost:4000
+INFO  01:03:22 Application started. Press Ctrl+C to shut down.
+INFO  01:03:22 Application started. Press Ctrl+C to shut down.
+INFO  01:03:22 Hosting environment: Development
+INFO  01:03:22 Hosting environment: Development
+INFO  01:03:22 Content root path: E:\Cognizant\CTS Extra project\New folder\AuditManagementSystem-master\AuditBenchmarkModule
+INFO  01:03:22 Content root path: E:\Cognizant\CTS Extra project\New folder\AuditManagementSystem-master\AuditBenchmarkModule
+INFO  01:04:44  Http GET request AuditBenchmarkController
+INFO  01:04:44  Http GET request BenchmarkProvider
+INFO  01:04:44  Http GET request BenchmarkRepo
+INFO  01:05:52 Application is shutting down...
+INFO  01:05:52 Application is shutting down...
